@@ -25,7 +25,7 @@ Hello! I'm Nalani, a full stack software engineer who enjoys building things peo
 
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
 
@@ -42,12 +42,12 @@ Hello! I'm Nalani, a full stack software engineer who enjoys building things peo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Deployment & Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Fly.io](https://img.shields.io/badge/Fly.io-7B36F0?style=flat-square&logo=flydotio&logoColor=white)
 
 **Testing**  
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 
 **Tools**  
@@ -66,13 +66,13 @@ Hello! I'm Nalani, a full stack software engineer who enjoys building things peo
 
 I'd love to hear from you! Whether you're interested in chatting about projects, opportunities, or just tech in general, feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nalani-story)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/nalani-story)
 
 ## More Projects
 
 This README is just a quick snapshot. For a full showcase of my projects, experience, and everything I've built, visit my portfolio site.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nalanistory.com-8A2BE2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.nalanistory.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nalanistory.com-E179C3?style=flat-square&&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0xMCAxM2E1IDUgMCAwIDAgNy41NC41NGwzLTNhNSA1IDAgMCAwLTcuMDctNy4wN2wtMS43MiAxLjcxIj48L3BhdGg+PHBhdGggZD0iTTE0IDExYTUgNSAwIDAgMC03LjU0LS41NGwtMyAzYTUgNSAwIDAgMCA3LjA3IDcuMDdsMS43MS0xLjcxIj48L3BhdGg+PC9zdmc+)](https://www.nalanistory.com)
 
 </td>
 </tr>
