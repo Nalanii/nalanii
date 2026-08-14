@@ -19,6 +19,7 @@ Hello! I'm Nalani, a full stack software engineer who enjoys building things peo
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
@@ -26,7 +27,7 @@ Hello! I'm Nalani, a full stack software engineer who enjoys building things peo
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
 
 **Databases**  
 ![Postgres](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -41,9 +42,9 @@ Hello! I'm Nalani, a full stack software engineer who enjoys building things peo
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **Deployment & Cloud**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Fly.io](https://img.shields.io/badge/Fly.io-7B3FF2?style=flat-square&logo=fly&logoColor=white)
+![Fly.io](https://img.shields.io/badge/Fly.io-7B36F0?style=flat-square&logo=flydotio&logoColor=white)
 
 **Testing**  
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
@@ -65,13 +66,13 @@ Hello! I'm Nalani, a full stack software engineer who enjoys building things peo
 
 I'd love to hear from you! Whether you're interested in chatting about projects, opportunities, or just tech in general, feel free to reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nalani--story-808080?style=flat-square&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://linkedin.com/in/nalani-story)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nalani-story)
 
 ## More Projects
 
 This README is just a quick snapshot. For a full showcase of my projects, experience, and everything I've built, visit my portfolio site.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nalanistory.com-808080?style=flat-square&labelColor=B089FE&logoColor=white)](https://www.nalanistory.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nalanistory.com-8A2BE2?style=flat-square&logo=googlechrome&logoColor=white)](https://www.nalanistory.com)
 
 </td>
 </tr>
