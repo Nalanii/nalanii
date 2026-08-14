@@ -46,6 +46,8 @@ Hello! I'm Nalani, a full stack software engineer who enjoys building things peo
 **Build & Infrastructure**  
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 **Deployment & Cloud**  
 ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-232F3E?style=flat-square&logo=aws&logoColor=white)
