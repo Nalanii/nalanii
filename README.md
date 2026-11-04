@@ -41,7 +41,7 @@ Hello! I'm Nalani, a full stack software engineer who enjoys building things peo
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
-<td valign="top">
+<td valign="top" width="300">
 
 **Build & Infrastructure**  
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
