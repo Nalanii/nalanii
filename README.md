@@ -10,7 +10,7 @@ Hello! I'm Nalani, a full stack software engineer who enjoys building things peo
 
 <table>
 <tr>
-<td valign="top" width="400">
+<td valign="top" width="300">
 
 **Core Languages & Frameworks**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
